@@ -1,1 +1,18 @@
-# Object-Detection-with-YOLOv9
+# 🚀 YOLOv9를 활용한 객체 탐지 프로젝트 (Object Detection with YOLOv9)
+
+## 🎯 프로젝트 개요
+이 프로젝트는 최신 객체 탐지 모델인 YOLOv9를 사용하여 이미지 속 객체를 탐지하고 위치를 파악하는 실습입니다.
+
+## 💡 사용 모델 및 환경
+- **모델:** YOLOv9 (gelan-c.pt 가중치 사용)
+- **실습 노트북:** [YOLOv9 Inference Colab Notebook](./yolo.ipynb) 
+
+
+## 🖼️ 탐지 결과 시각화
+성공적으로 고양이(Cat)와 화분에 심어진 식물(Potted Plant)을 탐지한 결과입니다.
+
+![YOLOv9 Detection Result - Cat and Plant](./YOLOv9_Object_Detection/results/candp_detected.jpg)
+
+## 💻 실행 방법
+1. 위의 노트북 파일을 Google Colab에서 엽니다.
+2. 셀을 순서대로 실행하여 객체 탐지 결과를 확인합니다.
