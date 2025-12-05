@@ -10,8 +10,7 @@
 
 ## 🖼️ 탐지 결과 시각화
 성공적으로 고양이(Cat)와 화분에 심어진 식물(Potted Plant)을 탐지한 결과입니다.
-
-![YOLOv9 Detection Result - Cat and Plant](.[/YOLOv9_Object_Detection/results/candp_detected.jpg](https://github.com/Junghyun1217/Object-Detection-with-YOLOv9/blob/main/yolo.ipynb))
+yolo.ipynb 클릭 시 최하단에 결과가 있습니다. 
 
 ## 💻 실행 방법
 1. 위의 노트북 파일을 Google Colab에서 엽니다.
